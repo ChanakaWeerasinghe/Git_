@@ -1,16 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="ea8dd0cf-ee52-4878-b2d9-4bfcce70f044" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/newa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/newa.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+=======
+    <list default="true" id="ea8dd0cf-ee52-4878-b2d9-4bfcce70f044" name="Default Changelist" comment="" />
+>>>>>>> master
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+<<<<<<< HEAD
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -22,6 +27,8 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+=======
+>>>>>>> master
   <component name="ProjectId" id="1Pp4srgr9g7rvNpgiJMjWlNDnP2" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
@@ -62,6 +69,7 @@
     <configuration>$USER_HOME$/.subversion</configuration>
   </component>
   <component name="TaskManager">
+<<<<<<< HEAD
     <task active="true" id="Default" summary="Default task">
       <changelist id="ea8dd0cf-ee52-4878-b2d9-4bfcce70f044" name="Default Changelist" comment="" />
       <created>1566557913533</created>
@@ -86,4 +94,8 @@
       </map>
     </option>
   </component>
+=======
+    <servers />
+  </component>
+>>>>>>> master
 </project>
